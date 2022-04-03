@@ -1,6 +1,7 @@
 body{
-    background: url("background.jpg");
+    background: #292b3d;
     background-size: cover;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .main{
     display: flex;
